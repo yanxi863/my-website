@@ -1,6 +1,6 @@
 ---
 title: 'English Posts'
-date: ''
+date: '2024-10-06'
 ---
 
 ## Posts
